@@ -2,7 +2,7 @@
 
 📱 **A modern mobile application for viewing and managing real estate properties.**  
 
-![App Preview](./screenshots/app_preview.png) *(Replace with an actual screenshot of your app)*  
+![App Preview](./screenshots/screen.jpg) *(Replace with an actual screenshot of your app)*  
 
 ## 🚀 Project Overview  
 
